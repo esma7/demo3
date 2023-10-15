@@ -1,0 +1,123 @@
+  @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,500;1,100&display=swap');
+
+ h4{
+ 	font-family:'Roboto', sans-serif;
+ 	}
+#aylanur{
+	background-color: blue;
+	font-family: AzJupiter;
+}
+
+#ayse{
+	 background-color: green;
+	font-family: AzJupiter;
+}
+
+.demo{
+	background-color: purple !important;
+}
+
+.demo{
+	 background-color: yellow;
+}
+
+.main{
+	width: 200px;
+	height: 300px;
+	background-color: red;
+	opacity:0.6;
+	background-color:rgba(128,0,128,0.6);
+	float: left;
+	margin-right: 5px;
+}
+
+.main2{
+	width: 200px;
+	height: 300px;
+	background-color: red;
+	opacity:0.6;
+	float:left;	
+}
+
+.main3{
+	width: 200px;
+	height: 300px;
+	background-color: #FF6666;
+	opacity:0.6;
+	float:left;
+	
+}
+
+/*body{
+	width:100%;
+	height:100vh;
+	margin:0px;
+	background-image:url(../img/maral.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}*/
+ body{
+ 	margin:0px auto;
+
+ }
+
+ .nav{
+ 	width:100%;
+ 	height:50px;
+ 	background-color: transparent;
+
+
+}
+.nav ul{
+	margin:0px;
+	padding:0px;
+}
+.nav ul li{
+	list-style-type: none;
+	display: inline-block;	
+	margin:5px;
+	
+	
+}
+.nav ul li a{
+	text-decoration: none;
+}
+.sekil{
+	width:30%;
+	height:400px;
+	background-color: blue;
+	float:left;
+	overflow: hidden;
+
+}
+.sekil img{	
+	height:inherit;
+	transition: 1s;
+	
+}
+
+.sekil img:hover{
+	transform: scale(1.3);
+}
+
+.yazi{
+	width:70%;
+	height:400px;
+	background-color: grey;
+	float:left;
+}
+
+.yazi p{
+	margin:10px 50px 5px;
+	text-align: center;
+	font-size:30px; 
+	font-family: aharoni;
+	text-shadow: 50px 0px 10px #FF0000, 10px 10px 5px #0000FF;
+
+}
+
+
+
+
+ 
